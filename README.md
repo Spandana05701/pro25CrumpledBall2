@@ -1,2 +1,1 @@
-# pro25CrumpledBall2
-project 25
+# CP-2
